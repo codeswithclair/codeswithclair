@@ -28,23 +28,16 @@ Passionate about software development, cloud technologies, and building practica
 
 </div>
 
-### 🚀 Featured Projects
+### What I'm Working On
+- Strengthening my backend development skills
+- Building and documenting software projects
+- Learning more about cloud infrastructure and automation
 
-- **ChronoCheck:** Facial recognition-based attendance management.
-- **Unravel:** AI-powered news traceability platform.
-- **HelloCode:** AI-powered hackathon application.
-- **CapiFrog:** Financial decision-support application.
-- **Noreste Grill:** Internal restaurant management system.
-
-### 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Backend Development
-- Cloud Computing & DevOps
-- Software Engineering Best Practices
+## Projects
+Explore my pinned repositories below to see my academic and collaborative work
 
 ### 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/clarisseburciagaa/)
 - [Devpost](https://devpost.com/codeswithclair)
-- [Portfolio](https://portfolio-six-opal-47.vercel.app/)
+
