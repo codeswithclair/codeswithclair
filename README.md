@@ -1,16 +1,27 @@
-## Hi there 👋
+H# Hi, I'm Clarisse!
 
-<!--
-**codeswithclair/codeswithclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student interested in software engineering, full-stack development, backend technologies, cloud computing, and applied AI.
 
-Here are some ideas to get you started:
+I enjoy building practical applications, collaborating on technical projects, and participating in hackathons to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming Languages:** Python, Java, JavaScript, SQL
+- **Frontend Development:** React, HTML, CSS
+- **Backend Development:** Flask, ASP.NET, REST APIs
+- **Databases:** MySQL, MariaDB, Oracle Database
+- **Development Tools:** Git, GitHub, Docker, Linux
+- **Cloud Computing:** AWS Fundamentals
+- **AI & API Integration:** Gemini API
+
+## What I'm Working On
+- Strengthening my backend development skills
+- Building and documenting software projects
+- Learning more about cloud infrastructure and automation
+
+## Projects
+Explore my pinned repositories below to see my academic and collaborative work.
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/clarisseburciagaa/
+- Devpost: https://devpost.com/codeswithclair
