@@ -36,6 +36,8 @@ Passionate about software development, cloud technologies, and building practica
 ## Projects
 Explore my pinned repositories below to see my academic and collaborative work
 
+You can also check out **[HelloCode](https://devpost.com/codeswithclair)**, a project I contributed to during the **TecNM Campus Saltillo Road to Tech Hackathon**, where our team won first place. More information about the project and its development is available on my Devpost profile.
+
 ### 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/clarisseburciagaa/)
