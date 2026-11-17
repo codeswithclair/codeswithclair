@@ -3,7 +3,7 @@
 
 # Hi, I'm Clarisse! ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Full-Stack+Development;Backend+%26+Cloud+Technologies;Building+One+Project+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Computer Systems+Engineering+Student;Full-Stack+Development;Backend+%26+Cloud+Technologies;Building+One+Project+at+a+Time)](https://git.io/typing-svg)
 
 Passionate about software development, cloud technologies, and building practical applications.
 
